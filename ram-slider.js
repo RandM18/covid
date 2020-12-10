@@ -34,7 +34,7 @@ window.addEventListener('scroll', function(e) {
 
                     for (var x = 0; x < imgsFixed[i].length; x++) {
                         imgsFixed[i][x].classList.remove('visible');
-                        if (scrollTop > initImg[i][x] - window.innerHeight*1.3 && scrollTop < endImg[i][x]) {
+                        if (scrollTop > initImg[i][x] - window.innerHeight && scrollTop < endImg[i][x]) {
                             imgsFixed[i][x].classList.add('visible');
                         } else {
                             imgsFixed[i][x].classList.remove('visible');
