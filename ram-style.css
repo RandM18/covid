@@ -3,8 +3,8 @@
     background-color: #fffffff0;
     padding: 20px;
     margin: 0 40px;
-    font-size: 1.6rem;
-    line-height: 2.4rem;
+    font-size: 1rem;
+    line-height: 2rem;
     margin-bottom: 160vh !important;
 }
 
@@ -15,8 +15,8 @@
 .contentFixedElement img {
 /*     max-width: 100%;
     height: 60vh;
-    width: 100vw;
-    object-fit: cover; */
+    width: 100vw;*/
+    object-fit: cover; 
     max-height: 100vh;
     width: auto;
     margin: 10vh 0;
