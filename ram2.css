@@ -1,5 +1,5 @@
 .contentFixedElement{
-    width: 90vw;
+    width: 100%;
     margin: 0 auto;
     display: block;
     position: relative;
@@ -33,7 +33,7 @@
     opacity: 0;
 }
 .text-fixed{
-    width: 90vw;
+    width: 60%;
     position: absolute;
     top: 0;
     left: 50%;
