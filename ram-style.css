@@ -10,6 +10,9 @@
 
 .contentFixedElement {
     position: relative; 
+    width: 100%;
+    margin: 0 auto;
+    display: block;
 }
 
 .contentFixedElement img {
@@ -57,7 +60,8 @@
 }
 
 .content-img-fixed {
-/*     width: 100vw;*/
+    width: 90vw;
+    margin: 0 auto;
     height: 95vh; 
     display: flex;
     align-items: center;
