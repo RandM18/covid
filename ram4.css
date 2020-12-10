@@ -52,12 +52,12 @@
     padding-bottom: 70vh;
 }
 .text-fixed span{
-    width: 60%;
+    width: 80%;
     background-color: #fffffff0;
     padding: 20px;
     margin: 0 40px;
-    font-size: 1.6rem;
-    line-height: 2.4rem;
+    font-size: 1.2rem;
+    line-height: 2rem;
     margin-bottom: 130vh !important;
 }
 .heightFixedElement{
