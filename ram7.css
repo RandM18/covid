@@ -6,6 +6,7 @@
 }
 .block-fixed{
    z-index: -99;
+    width: inherit;
 }
 .container-imgs{
     position: relative;
