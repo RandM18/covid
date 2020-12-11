@@ -12,6 +12,8 @@
     diff = 0,
     last = 0;
 
+elementsFixed.forEach(element => element.style.width=document.getElementById('page').clientWidth+"px");
+
 window.addEventListener('scroll', function(e) {
 
     var scrollTop = window.pageYOffset;
